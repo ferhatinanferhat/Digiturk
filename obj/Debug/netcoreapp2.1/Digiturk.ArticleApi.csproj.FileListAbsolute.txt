@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.RazorAssemblyInfo.cache
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.RazorAssemblyInfo.cs
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\bin\Debug\netcoreapp2.1\Digiturk.ArticleApi.deps.json
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\bin\Debug\netcoreapp2.1\Digiturk.ArticleApi.runtimeconfig.json
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\bin\Debug\netcoreapp2.1\Digiturk.ArticleApi.runtimeconfig.dev.json
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\bin\Debug\netcoreapp2.1\Digiturk.ArticleApi.dll
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\bin\Debug\netcoreapp2.1\Digiturk.ArticleApi.pdb
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.RazorTargetAssemblyInfo.cache
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.dll
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.pdb
+C:\Users\MONSTER\source\repos\Digiturk.ArticleApi\Digiturk.ArticleApi\obj\Debug\netcoreapp2.1\Digiturk.ArticleApi.csprojAssemblyReference.cache
